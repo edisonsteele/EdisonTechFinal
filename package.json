@@ -1,0 +1,21 @@
+{
+  "name": "edison-tech-website",
+  "version": "1.0.0",
+  "description": "A dynamic and visually compelling website for Edison Tech, driving sales of web development services and tech support packages.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sanity": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^13.0.0"
+  }
+} 
